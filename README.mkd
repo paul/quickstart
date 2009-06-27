@@ -1,0 +1,3 @@
+
+ * Minimal *valid* HTML5 `index.html`, from
+   [http://meiert.com/en/blog/20080429/best-html-template/]
