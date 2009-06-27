@@ -2,4 +2,6 @@
  * Minimal *valid* HTML5 `index.html`, from [The World's Best HTML Template](http://meiert.com/en/blog/20080429/best-html-template/)
  * Important metadata tags I always forget
  * YUI CSS from Yahoo's CDN: reset, fonts and base. I don't use grids. [YUI Builder](http://developer.yahoo.com/yui/articles/hosting/?base&fonts&reset&MIN)
+ * jQuery and UI from [Google's CDN](http://code.google.com/apis/ajaxlibs/documentation/index.html#jquery)
+
 
