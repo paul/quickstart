@@ -1,3 +1,4 @@
 
- * Minimal *valid* HTML5 `index.html`, from
-   [http://meiert.com/en/blog/20080429/best-html-template/]
+ * Minimal *valid* HTML5 `index.html`, from [The World's Best HTML Template](http://meiert.com/en/blog/20080429/best-html-template/)
+ * Important metadata tags I always forget
+
